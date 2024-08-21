@@ -1,6 +1,6 @@
 # Corning AI Challenge: Creating an Image Classification Program Using Machine Learning
 
-Please note that all codes refernces the official implementation [YOLO v8](https://github.com/ultralytics/ultralytics), [YOLO v5](https://github.com/ultralytics/yolov5), [Grounding dino](https://github.com/open-mmlab/mmdetection/blob/main/configs/grounding_dino/README.md)
+Please note that all codes refernces the official implementation [YOLO v8](https://github.com/ultralytics/ultralytics), [YOLO v5](https://github.com/ultralytics/yolov5), [Grounding dino](https://github.com/open-mmlab/mmdetection/blob/main/configs/grounding_dino/README.md), [Efficient Net](https://github.com/qubvel/efficientnet)
 
 ## Mandatory Implementation Requirements
 1. Able to perform inference on a single image or multiple image
