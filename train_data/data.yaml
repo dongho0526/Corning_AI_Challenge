@@ -1,0 +1,13 @@
+train: ../dataset/train/images
+val: ../dataset/train/images
+test: ../dataset/test/images
+
+nc: 5
+names: ['Defect1', 'Defect2', 'Defect3', 'Defect4', 'Defect5']
+
+roboflow:
+  workspace: project-c5chr
+  project: corning
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-c5chr/corning/dataset/3

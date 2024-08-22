@@ -1,0 +1,18 @@
+nc: 5
+names:
+  0: Defect1
+  1: Defect2
+  2: Defect3
+  3: Defect4
+  4: Defect5
+
+train: C:\Users\eogks\PycharmProjects\image_app\models\yolov8\train_data\train\images
+val: C:\Users\eogks\PycharmProjects\image_app\models\yolov8\train_data\train\images
+test: C:\Users\eogks\PycharmProjects\image_app\models\yolov8\train_data\test\images
+
+roboflow:
+  workspace: project-c5chr
+  project: corning
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-c5chr/corning/dataset/3
